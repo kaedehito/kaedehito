@@ -1,16 +1,25 @@
-## Hi there 👋
+こんにちは、Kaedehitoです。Rustで作りたいもの作ってます
 
-<!--
-**kaedehito/kaedehito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+たまにCに浮気したりしますが、Rustが本命です
 
-Here are some ideas to get you started:
+Kaedehitoと名乗っていますが、Pik6Cという活動名でも活動していました
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Kaedehidtoは本名の小笠原楓人の「楓人」です。
+> 
+> ふうとって言いますが、futoってやると「ふと」か「ふうと」か分からなくなるので、訓読みの「かえで」、音読みの「ひと」を活動名にしました
+
+基本的に作りたいもの自由に作っていますか、その中でも最も作っているであろう物はパッケージマネージャーです。
+
+
+
+## Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,c" />
+<br>
+
+## Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kaedehito&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedehito&theme=vue-dark&layout=compact" />
+</div>
+
+
