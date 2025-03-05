@@ -1,3 +1,5 @@
+ウェブサイト: [https://pik6c.tech](https://pik6c.tech)
+
 こんにちは、Kaedehitoです。Rustで作りたいもの作ってます
 
 たまにCに浮気したりします。でもRustが本命です
