@@ -15,7 +15,7 @@ Kaedehitoと名乗っていますが、Pik6Cという活動名でも活動して
 
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,c,kotlin,go,asm" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,c,kotlin,go,nasm" />
 <br>
 
 ## Activities
