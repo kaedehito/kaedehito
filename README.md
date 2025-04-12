@@ -24,4 +24,10 @@ Kaedehitoと名乗っていますが、Pik6Cという活動名でも活動して
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedehito&theme=vue-dark&layout=compact" />
 </div>
 
+草を食べるヘビ
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
+</picture>
